@@ -1,14 +1,7 @@
-- 👋 Hi, I’m @Anuj2Bhatt
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Google
-- 📫 How to reach me Facebook @AnujBhattAB
-- 😄 Pronouns: Straight
-- ⚡ Fun fact: You are gay
-
-<!---
-Anuj2Bhatt/Anuj2Bhatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!-- I am here for showing you some of skills what i gain in past 6th month in HTMl, Javascript, CSS, PYTHON, C,C++, DATA STRUCTURE
---->
+💻 Full-Stack Developer | MERN Stack Specialist | API Crafter  
+🚀 Currently building real-world scalable platforms in tourism, travel, and tech.  
+🧠 Obsessed with clean architecture, structured backend logic & responsive UIs.  
+🔧 Tech I use: Node.js, Express, React, MongoDB, MySQL, REST APIs  
+📦 Projects: 1000+ files, 60+ APIs, full admin panels, CMS, booking engines  
+🎯 Learning Next: WebGL, 3D UX, AI + Visualization  
+📬 Let’s connect: I’m open to freelance work & collaborations!
